@@ -1,6 +1,6 @@
 ## Hey there, visitor! 👋🏻
 
-I’m a **22-year-old** (he/him) self-studying, aspiring web developer from Poland 🥟, as I continue growing my skills from where I left off.
+I’m a **22-year-old** (he/him) self-studying, aspiring **web dev** from Poland 🥟, as I continue growing my skills from where I left off.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pixiebyt3&show_icons=true&theme=tokyonight&bg_color=00000000)
 
