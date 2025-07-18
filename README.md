@@ -1,19 +1,17 @@
 ## Hey there, visitor! 👋🏻
 
-I’m a **22-year-old** (he/him) self-studying, aspiring junior developer from Poland 🥟, as I continue growing my skills from where I left off.
+I’m a **22-year-old** (he/him) self-studying, aspiring web developer from Poland 🥟, as I continue growing my skills from where I left off.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pixiebyt3&show_icons=true&theme=tokyonight&bg_color=00000000)
 
 ---
 
 ## 🪟 Current Setup
-- **Windows 10 22H2** running on **ThinkPad T480**
+- **Arch Linux** running on **ThinkPad T480**
 - Intel(R) Core(TM) **i5-8350U** [T:8]
 ---
 
 ## 📗 Actively Learning
-- C/C++
-- C#
 - Next.js
 - PHP
 - HTML
@@ -26,18 +24,14 @@ I’m a **22-year-old** (he/him) self-studying, aspiring junior developer from P
 ---
 
 ## 🔧 Tools I Use On Daily Basis
-- VS Code
-- Visual Studio 2022
+- VS Codium
 - Git (CLI, Desktop)
-- LLVM (Clang)
-- CMake
-- PowerShell
-- Docker/Hyper-V
+- Docker
 
 ---
 
 ## 🗳️ Current Tech Stack
-- Git (Desktop & CLI) | VS Code | Visual Studio 2022
+- Git (Desktop & CLI) | VS Codium
 
 ---
 
