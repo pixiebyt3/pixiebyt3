@@ -7,7 +7,7 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **web dev** from Poland
 ---
 
 ## 🪟 Current Setup
-- **Arch Linux** running on **ThinkPad T480**
+- **Manjaro KDE** running on **ThinkPad T480**
 - Intel(R) Core(TM) **i5-8350U** [T:8]
 ---
 
