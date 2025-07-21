@@ -7,9 +7,8 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **web developer** from 
 ---
 
 ## 💻 Current Setup
-- **Windows 11 Pro** running on **ThinkPad T480**
+- **Manjaro Linux** running on **ThinkPad T480**
 - Intel(R) Core(TM) **i5-8350U** [T:8]
-- I'm also a part of The Windows Insider Program! 🛠️
 
 ---
 
@@ -21,10 +20,9 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **web developer** from 
 ---
 
 ## 🧰 Tools I Use On Daily Basis
-- VS Code
-- Visual Studio 2022
+- VS Codium
 - Git (CLI, Desktop & Actions)
-- Docker or Hyper-V
+- Docker and KVM
 
 ---
 
