@@ -7,7 +7,7 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **web developer** from 
 ---
 
 ## 💻 Current Setup
-- **Ubuntu 25.04** running on **ThinkPad T480**
+- **Arch Linux** with **GNOME** running on **ThinkPad T480**
 - Intel(R) Core(TM) **i5-8350U** [T:8]
 
 ---
