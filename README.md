@@ -13,9 +13,11 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **web developer** from 
 ---
 
 ## 📓 Actively Learning
+- React.js
 - Next.js
 - PHP
-- HTML
+- TypeScript
+- JavaScript
 
 ---
 
@@ -34,4 +36,4 @@ Believe it or no, I was learning guitar for a while! 🎶
 ---
 
 ## 📨 Let’s Connect
-📩 n3cr0pixie@gmail.com
+📩 pixiebyt3@proton.me
