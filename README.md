@@ -7,7 +7,7 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **full-stack dev** from
 ---
 
 ## 💻 Current Setup
-- **Arch Linux** with **GNOME** running on **ThinkPad T480**
+- **Windows 11 Pro** running on **ThinkPad T480**
 - Intel(R) Core(TM) **i5-8350U** [T:8]
 
 ---
@@ -22,7 +22,7 @@ I’m a **22-year-old** (he/him) self-studying, aspiring **full-stack dev** from
 ---
 
 ## 🧰 Tools I Use On Daily Basis
-- VS Codium
+- VS Code (Visual Studio, also)
 - Git (CLI, Desktop & Actions)
 - Docker and KVM
 
